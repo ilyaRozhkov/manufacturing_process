@@ -1,0 +1,21 @@
+.test_agile{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.see_right{
+
+        position: fixed;
+        display: flex;
+        top: 40%;
+        left: 52%;
+        width: 250px;
+        height: 200px;
+        background-color: #fc5434;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #680f38;
+        border-radius: 10px;
+}

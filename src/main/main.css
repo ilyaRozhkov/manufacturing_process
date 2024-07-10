@@ -1,0 +1,59 @@
+.main{
+
+    width: 100%;
+    z-index: 10;
+    position: relative;
+    background-color: transparent;
+}
+.main-title{
+    width: 100%;
+
+}
+.main-title-text{
+    width: 34%;
+    margin: 0 32%;
+    background-color: #acb9d4;
+    border-radius: 10%;
+}
+.main-title-text-text{
+    font-style: oblique;
+    font-weight: 500;
+    font-size: 47px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.main-comparison{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    background-color: #acb9d4;
+}
+.main-agile{
+    width: 48%;
+}
+.main-agile-agile{
+    background-color: #5884a3;
+    width: 100%;
+    border: 1px solid #680f38;
+    border-radius: 20px;
+}
+.main-agile-scrum{
+    background-color: blue;
+    width: 100%;
+    height: 48%;
+}
+
+.main-waterfall{
+    background-color: #5884a3;
+    width: 48%;
+    border: 1px solid #680f38;
+    border-radius: 20px;
+}
+.main-agile-agile-img{
+    display: flex;
+    justify-content: center;
+}
+.main-agile-agile-img-img{
+    width: 700px;
+}

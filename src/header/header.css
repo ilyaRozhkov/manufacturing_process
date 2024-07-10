@@ -1,0 +1,73 @@
+circle {
+    stroke-width: 5px;
+    stroke-linecap: round;
+    fill: transparent;
+  }
+line {
+    stroke-width: 25px;
+    stroke-linecap: round;
+    fill: transparent;
+}
+.linevs{
+    stroke-width: 5px;
+    stroke-linecap: round;
+    fill: transparent;
+}
+polygon{
+    stroke-width: 1px;
+    stroke-linecap: round;
+    fill: #acb9d4;
+}
+.header{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    align-items: center;
+    height: 804px;
+}
+.header_left_circle{
+    stroke-width: 3px;
+    fill: #F0B6B9;
+}
+.header_right_circle{
+    stroke-width: 3px;
+    fill: #2c3e50;
+}
+.header_left{
+    width: 40%;
+}
+
+.header_middle{
+    width: 20%;
+}
+
+.header_right{
+    width: 40%;
+}
+.header_h1{
+    font-size: 90px;
+    position: absolute;
+    top: 249px;
+    left: 47%;
+    font-style: oblique;
+    font-weight: 500
+}
+
+.header_h2_top{
+    font-size: 70px;
+    position: absolute;
+    top: 160px;
+    left: 46%;
+    font-style: oblique;
+    font-weight: 500
+}
+
+.header_h2_bottom{
+    font-size: 70px;
+    position: absolute;
+    top: 360px;
+    left: 42%;
+    font-style: oblique;
+    font-weight: 500
+}
